@@ -1,0 +1,4 @@
+name: do-something-indonesia
+recipe: drupal7
+config:
+  webroot: ./html
