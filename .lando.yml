@@ -1,4 +1,6 @@
-name: do-something-indonesia
-recipe: drupal7
+name: dosomething-indonesia
+recipe: pantheon
 config:
-  webroot: ./html
+  framework: drupal
+  site: dosomething-indonesia
+  id: f5ee6474-0663-441f-8ef0-9f5f54e427d4
